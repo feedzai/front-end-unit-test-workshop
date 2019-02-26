@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render renders the given text 1`] = `
+<button
+  type="button"
+>
+  Jump
+</button>
+`;
